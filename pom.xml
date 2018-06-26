@@ -47,7 +47,7 @@
 	  <distributionManagement>
 		<snapshotRepository>
 		  <id>nexus-snapshots</id>
-		  <url>http://20990301.ngrok.io/repository/maven-central/</url>
+		  <url>http://20990301.ngrok.io/repository/maven-snapshots/</url>
 		</snapshotRepository>
 		<repository>
 		  <id>nexus-releases</id>
