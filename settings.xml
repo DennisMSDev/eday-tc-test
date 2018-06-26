@@ -20,7 +20,7 @@
     <mirror>
       <id>central</id>
       <name>central</name>
-      <url>http://b92b5c5a.ngrok.io/repository/maven-central/</url>
+      <url>http://20990301.ngrok.io/repository/maven-central/</url>
       <mirrorOf>*</mirrorOf>
     </mirror>
     <mirror>
